@@ -14,9 +14,7 @@
 
 # **Dados**
 
-##### [Os dados]("https://github.com/Fabiano23/xG/blob/main/events.tar.gz") são provenientes do Wyscout e é um dos datasets de futebol abertos mais robustos disponíveis atualmente. Nós temos eventos de todas as partidas de uma temporada completa (2016-2017) [das cinco principais ligas europeias segundo a UEFA]("https://www.uefa.com/memberassociations/uefarankings/country/#/yr/2019") (as primeiras divisões das ligas espanhola; italiana; alemã; francesa e inglesa), do campeonato europeu de seleções de 2016 e da Copa do Mundo da Rússia de 2018.
-
-[Neste artigo]("https://www.nature.com/articles/s41597-019-0247-7") há informações detalhadas sobre como se dá a coleta de dados dos jogos de futebol pela Wyscout e a definição das variáveis.
+##### Os dados são provenientes do Wyscout e é um dos datasets de futebol abertos mais robustos disponíveis atualmente. Nós temos eventos de todas as partidas de uma temporada completa (2016-2017) [das cinco principais ligas europeias segundo a UEFA]("https://www.uefa.com/memberassociations/uefarankings/country/#/yr/2019") (as primeiras divisões das ligas espanhola; italiana; alemã; francesa e inglesa), do campeonato europeu de seleções de 2016 e da Copa do Mundo da Rússia de 2018.
 
 ## Notebook preparacaoDosDados -> Para cada finalização de todos os campeonatos identificamos:
 
@@ -47,3 +45,12 @@
   
 ## Pasta Imagens:
   Imagens que ajudam a ilustrar as ideias e justificativas do modelo além de um pdf com as definições das variáveis pela Wyscout.
+  
+## Links:
+
+- https://www.nature.com/articles/s41597-019-0247-7 -> Artigo com informações detalhadas sobre como se dá a coleta de dados dos jogos de futebol pela Wyscout e a definição das variáveis.
+
+- https://www.uefa.com/memberassociations/uefarankings/country/#/yr/2019 -> artigo com o ranking das ligas europeias pela UEFA.
+
+- https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython -> Repositório SoccermaticsForPython.
+ 
