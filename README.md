@@ -46,13 +46,4 @@
   2. FCPython.py -> Arquivo do repositório [SoccermaticsForPython](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython) para visualização dos dados em um campo de jogo.
   
 ## Pasta Imagens:
-  Imagens que ajudam a ilustrar as ideias e justificativas do modelo além de um pdf com as definições das variáveis pela Wyscout.
-  
-## Links:
-
-- https://www.nature.com/articles/s41597-019-0247-7 -> Artigo com informações detalhadas sobre como se dá a coleta de dados dos jogos de futebol pela Wyscout e a definição das variáveis.
-
-- https://www.uefa.com/memberassociations/uefarankings/country/#/yr/2019 -> artigo com o ranking das ligas europeias pela UEFA.
-
-- https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython -> Repositório SoccermaticsForPython.
- 
+  Imagens que ajudam a ilustrar as ideias e justificativas do modelo além de um pdf com as definições das variáveis pela [Wyscout](https://wyscout.com/).
