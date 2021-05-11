@@ -1,5 +1,7 @@
 # **_xG_**
 
+![GitHub Logo](https://github.com/Fabiano23/xG/blob/main/Imagens/Xg.jpg)
+
 ## **O que é _xG_?**
 
 ##### Do inglês _expected goals_, o termo _xG_ diz respeito à probabilidade de uma finalização no jogo de futebol terminar em gol dado algumas de suas características. Nesse sentido, é uma medida estatística que mede a qualidade de um chute.
