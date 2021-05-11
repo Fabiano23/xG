@@ -16,7 +16,7 @@
 
 # **Dados**
 
-##### Os dados são provenientes do Wyscout e é um dos datasets de futebol abertos mais robustos disponíveis atualmente. Nós temos eventos de todas as partidas de uma temporada completa (2016-2017) [das cinco principais ligas europeias segundo a UEFA](https://www.uefa.com/memberassociations/uefarankings/country/#/yr/2019) (as primeiras divisões das ligas espanhola; italiana; alemã; francesa e inglesa), do campeonato europeu de seleções de 2016 e da Copa do Mundo da Rússia de 2018.
+##### Os dados são provenientes do [Wyscout](https://wyscout.com/) e é um dos datasets de futebol abertos mais robustos disponíveis atualmente. Nós temos eventos de todas as partidas de uma temporada completa (2016-2017) [das cinco principais ligas europeias segundo a UEFA](https://www.uefa.com/memberassociations/uefarankings/country/#/yr/2019) (as primeiras divisões das ligas espanhola; italiana; alemã; francesa e inglesa), do campeonato europeu de seleções de 2016 e da Copa do Mundo da Rússia de 2018.
 
 ## [Notebook preparacaoDosDados](https://github.com/Fabiano23/xG/blob/main/preparacaoDosDados.ipynb) -> Para cada finalização de todos os campeonatos identificamos:
 
