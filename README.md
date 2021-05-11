@@ -16,11 +16,11 @@
 
 # **Dados**
 
-##### Os dados são provenientes do Wyscout e é um dos datasets de futebol abertos mais robustos disponíveis atualmente. Nós temos eventos de todas as partidas de uma temporada completa (2016-2017) [das cinco principais ligas europeias segundo a UEFA]("https://www.uefa.com/memberassociations/uefarankings/country/#/yr/2019") (as primeiras divisões das ligas espanhola; italiana; alemã; francesa e inglesa), do campeonato europeu de seleções de 2016 e da Copa do Mundo da Rússia de 2018.
+##### Os dados são provenientes do Wyscout e é um dos datasets de futebol abertos mais robustos disponíveis atualmente. Nós temos eventos de todas as partidas de uma temporada completa (2016-2017) [das cinco principais ligas europeias segundo a UEFA](https://www.uefa.com/memberassociations/uefarankings/country/#/yr/2019) (as primeiras divisões das ligas espanhola; italiana; alemã; francesa e inglesa), do campeonato europeu de seleções de 2016 e da Copa do Mundo da Rússia de 2018.
 
-## Notebook preparacaoDosDados -> Para cada finalização de todos os campeonatos identificamos:
+## [Notebook preparacaoDosDados](https://github.com/Fabiano23/xG/blob/main/preparacaoDosDados.ipynb) -> Para cada finalização de todos os campeonatos identificamos:
 
-  a) [todos_os_chutes_modelo.csv]("https://raw.githubusercontent.com/Fabiano23/xG/main/todos_os_chutes_modelo.csv"):
+  a) [todos_os_chutes_modelo.csv](https://raw.githubusercontent.com/Fabiano23/xG/main/todos_os_chutes_modelo.csv):
     
     1. A posição x (horizontal) e y (vertical) do chute no campo;
     2. Distância do chute em relação à linha central;
@@ -32,18 +32,18 @@
     8. id do jogador nos dados do Wyscout;
     9. A variável que queremos prever: dado as características acima (tirando o campeonato) foi gol ou não (sua probabilidade)?.
   
-  b) [chutes_modelo_com_xg.csv]("https://raw.githubusercontent.com/Fabiano23/xG/main/chutes_modelo_com_xg.csv"):
+  b) [chutes_modelo_com_xg.csv](https://raw.githubusercontent.com/Fabiano23/xG/main/chutes_modelo_com_xg.csv):
     
     1. Todas as variáveis indicadas acima acrescido o xG de cada finalização.
 
-## Notebook analiseDosDadosEModelos:
+## Notebook [analiseDosDadosEModelos](https://github.com/Fabiano23/xG/blob/main/analiseDosDadosEModelos.ipynb):
 
   Notebook com a análise dos dados, teste e justificativa do modelo.
   
 ## Arquivos:
 
   1. funcoes_projeto.py -> funções utilizadas no projeto para manter os notebooks menos "poluídos".
-  2. FCPython.py -> Arquivo do repositório [SoccermaticsForPython]("https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython") para visualização dos dados em um campo de jogo.
+  2. FCPython.py -> Arquivo do repositório [SoccermaticsForPython](https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython) para visualização dos dados em um campo de jogo.
   
 ## Pasta Imagens:
   Imagens que ajudam a ilustrar as ideias e justificativas do modelo além de um pdf com as definições das variáveis pela Wyscout.
